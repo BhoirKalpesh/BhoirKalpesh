@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalpesh Bhoir</h1>
+<h1 align="center">Hi  👋, I'm Kalpesh Bhoir</h1>
 <h3 align="center">A passionate Front-End Developer, I've also delved into the realms of DevOps and AWS to bring a holistic approach to my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoirkalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhoirkalpesh" /> </p>
