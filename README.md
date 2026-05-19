@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kalpesh Bhoir</h1>
-<h3 align="center">Computer Vision & Deep Learning Engineer · Building Intelligent Visual Systems</h3>
+<p align="center">
+  <img src="./banner.svg" alt="Kalpesh Bhoir Banner" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhoirkalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhoirkalpesh" />
+  <img src="https://komarev.com/ghpvc/?username=bhoirkalpesh&label=Profile%20views&color=00b4d8&style=flat" alt="bhoirkalpesh" />
 </p>
 
 ---
