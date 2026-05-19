@@ -237,7 +237,7 @@
         fill="#90e0ef"
         opacity="0.9"
         filter="url(#subtleGlow)">
-    Computer Vision &amp; Deep Learning Engineer
+    AI Engineer | Computer Vision &amp; Deep Learning
   </text>
 
   <!-- ═══ Tag line with blinking cursor ═══ -->
@@ -249,6 +249,6 @@
         letter-spacing="1.5"
         fill="#00d4ff"
         opacity="0.7">
-    [ OpenCV · CNNs · Real-Time Video Analysis ]<tspan class="cursor" fill="#00d4ff">_</tspan>
+    [ OpenCV · PyTorch · Deep Learning · CNNs · Real-Time AI ]<tspan class="cursor" fill="#00d4ff">_</tspan>
   </text>
 </svg>
